@@ -15,16 +15,16 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#000000;
+	color:White;
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:White;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #77ccee;
+	color: White;
 	text-decoration: none;
 }
 
@@ -76,5 +76,5 @@ article {
 	float:right;
 	}
 h1 {
-	color:Chartreuse;
+	color:White;
 }
