@@ -22,6 +22,9 @@ header, main h1 {
 header, main h2 {
 	color: White;
 }
+ul {
+	type:"circle";
+}
 a, a:visited {
 	color:White;
 	text-decoration:none;
@@ -42,7 +45,7 @@ a:hover {
 #nav li {
 	display:block;
 	float: left;
-	padding:15px;
+	padding:5px;
 	margin-bottom:20px;
 	margin-right:10px;
 	height:30px;
