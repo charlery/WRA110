@@ -53,6 +53,7 @@ a:hover {
 	text-align:center;
 	font-size:13px;
 	border: 2px solid white;
+	border-style: ridge;
 	border-radius:10px;
 }
 
