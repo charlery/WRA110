@@ -1,5 +1,5 @@
 body {
-	color: black;
+	color: white;
 	background: black;
 	font-family:Courier;
 	width:960px;
@@ -45,9 +45,7 @@ a:hover {
 #nav {
 	list-style: none;
 	width:960px;
-	margin-left:-40px;
-
-	
+	margin-left:-25px;
 }
 
 #nav li {
