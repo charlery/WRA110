@@ -5,12 +5,6 @@ body {
 	width:960px;
 	margin:auto;
 }
-body.after {
-	background:#C0C0C0;
-	opacity: .5;
-	width:960px;
-	margin:auto;
-}
 
 html { 
   background: url(http://www.cm-life.com/wp-content/uploads/2012/09/SPORTS_FBC-MINNESOTA-MICHST_9_DE.jpg) no-repeat center center fixed; 
@@ -52,7 +46,7 @@ a:hover {
 	list-style: none;
 	width:960px;
 	margin-left:-40px;
-	border-style: ridge;
+
 	
 }
 
