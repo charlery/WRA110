@@ -16,7 +16,7 @@ html {
 
 header, main, footer {
 	clear:both;
-	margin-left:0;
+	margin-left:15px;
 	
 }
 
@@ -45,7 +45,7 @@ a:hover {
 #nav {
 	list-style: none;
 	width:960px;
-	margin-left:-25px;
+	margin-left:-35px;
 }
 
 #nav li {
